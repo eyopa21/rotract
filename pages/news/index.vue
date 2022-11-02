@@ -24,7 +24,7 @@
                             <div class="news-block">
                                 <div class="news-block-top">
                                     <a href="news-detail.html">
-                                        <img src="images/news/medium-shot-volunteers-with-clothing-donations.jpg"
+                                        <img src="/images/news/medium-shot-volunteers-with-clothing-donations.jpg"
                                             class="news-image img-fluid" alt="">
                                     </a>
     
@@ -79,7 +79,7 @@
                             <div class="news-block mt-3">
                                 <div class="news-block-top">
                                     <a href="news-detail.html">
-                                        <img src="images/news/medium-shot-people-collecting-foodstuff.jpg"
+                                        <img src="/images/news/medium-shot-people-collecting-foodstuff.jpg"
                                             class="news-image img-fluid" alt="">
                                     </a>
     
@@ -150,7 +150,7 @@
                             <div class="news-block news-block-two-col d-flex mt-4">
                                 <div class="news-block-two-col-image-wrap">
                                     <a href="news-detail.html">
-                                        <img src="images/news/africa-humanitarian-aid-doctor.jpg"
+                                        <img src="/images/news/africa-humanitarian-aid-doctor.jpg"
                                             class="news-image img-fluid" alt="">
                                     </a>
                                 </div>
@@ -173,7 +173,7 @@
                             <div class="news-block news-block-two-col d-flex mt-4">
                                 <div class="news-block-two-col-image-wrap">
                                     <a href="news-detail.html">
-                                        <img src="images/news/close-up-happy-people-working-together.jpg"
+                                        <img src="/images/news/close-up-happy-people-working-together.jpg"
                                             class="news-image img-fluid" alt="">
                                     </a>
                                 </div>
