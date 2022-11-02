@@ -7,7 +7,7 @@
                     <div id="hero-slide" class="carousel carousel-fade slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="images/slide/volunteer-helping-with-donation-box.jpg"
+                                <img src="/images/slide/volunteer-helping-with-donation-box.jpg"
                                     class="carousel-image img-fluid" alt="...">
 
                                 <div class="carousel-caption d-flex flex-column justify-content-end">
@@ -18,7 +18,7 @@
                             </div>
 
                             <div class="carousel-item">
-                                <img src="images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg"
+                                <img src="/images/slide/volunteer-selecting-organizing-clothes-donations-charity.jpg"
                                     class="carousel-image img-fluid" alt="...">
 
                                 <div class="carousel-caption d-flex flex-column justify-content-end">
@@ -29,7 +29,7 @@
                             </div>
 
                             <div class="carousel-item">
-                                <img src="images/slide/medium-shot-people-collecting-donations.jpg"
+                                <img src="/images/slide/medium-shot-people-collecting-donations.jpg"
                                     class="carousel-image img-fluid" alt="...">
 
                                 <div class="carousel-caption d-flex flex-column justify-content-end">

@@ -8,7 +8,7 @@
                         <h2>Get in touch</h2>
 
                         <div class="contact-image-wrap d-flex flex-wrap">
-                            <img src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"
+                            <img src="/images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"
                                 class="img-fluid avatar-image" alt="">
 
                             <div class="d-flex flex-column justify-content-center ms-3">

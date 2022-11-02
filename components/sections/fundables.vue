@@ -9,7 +9,7 @@
                 
                 <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block-wrap">
-                        <img src="images/causes/group-african-kids-paying-attention-class.jpg"
+                        <img src="/images/causes/group-african-kids-paying-attention-class.jpg"
                             class="custom-block-image img-fluid" alt="">
 
                         <div class="custom-block">
@@ -43,7 +43,7 @@
 
                 <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block-wrap">
-                        <img src="images/causes/poor-child-landfill-looks-forward-with-hope.jpg"
+                        <img src="/images/causes/poor-child-landfill-looks-forward-with-hope.jpg"
                             class="custom-block-image img-fluid" alt="">
 
                         <div class="custom-block">
@@ -78,7 +78,7 @@
 
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="custom-block-wrap">
-                        <img src="images/causes/african-woman-pouring-water-recipient-outdoors.jpg"
+                        <img src="/images/causes/african-woman-pouring-water-recipient-outdoors.jpg"
                             class="custom-block-image img-fluid" alt="">
 
                         <div class="custom-block">

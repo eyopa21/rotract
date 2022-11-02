@@ -4,7 +4,7 @@
             <div class="row">
 
                 <div class="col-lg-6 col-12 mb-5 mb-lg-0">
-                    <img src="images/group-people-volunteering-foodbank-poor-people.jpg"
+                    <img src="/images/group-people-volunteering-foodbank-poor-people.jpg"
                         class="custom-text-box-image img-fluid" alt="">
                 </div>
 
@@ -74,7 +74,7 @@
             <div class="row">
 
                 <div class="col-lg-6 col-md-5 col-12">
-                    <img src="images/portrait-volunteer-who-organized-donations-charity.jpg"
+                    <img src="/images/portrait-volunteer-who-organized-donations-charity.jpg"
                         class="about-image ms-lg-auto bg-light shadow-lg img-fluid" alt="">
                 </div>
 
